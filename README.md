@@ -2,7 +2,7 @@
 
 This is a drop-in patch for the DayZ mod "DSF Stalker Clothes" ([https://steamcommunity.com/sharedfiles/filedetails/?id=3013751191](https://steamcommunity.com/sharedfiles/filedetails/?id=3013751191))
 
-It is not a stand-alone mod. It works by first unpacking the original "DSF Stalker Clothes" mod and then copying the contents of this repository over the top.
+It is not a stand-alone mod. You must first unpack the original "DSF Stalker Clothes" mod and then copy the contents of this repository over the top.
 
 ## Step 1
 
